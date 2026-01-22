@@ -1,7 +1,9 @@
 ## Hi there 👋
-:robot: Ingeniero Mecatónico
+:robot: Ingeniero Mecatrónico
+
 :pencil: Diseñador mecánico
-:gato: Soporte técnico para Electronic cats
+
+:cat: Soporte técnico para Electronic cats
 
 ### Vías de contacto
 
